@@ -2,13 +2,13 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: AMOL BALU GAHALE
+*NAME*: Premkumar Shyam Aarke
 
-*INTERN ID*: CTIS0785
+*INTERN ID*: CTIS5891
 
 *DOMAIN*: Frontend Web Development
 
-*DURATION*: 6 Weeks
+*DURATION*: 4 Weeks
 
 *MENTOR*: NEELA SANTOSH
 
